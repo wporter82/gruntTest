@@ -1,12 +1,12 @@
 {
-  "name": "libTest",
+  "name": "gruntTest",
   "authors": [
     "Wayne Porter <wporter82@gmail.com>"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/wporter82/gruntTest",
   "ignore": [
     "**/.*",
     "node_modules",
