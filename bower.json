@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "font-awesome": "^4.6.1"
+    "font-awesome": "^4.6.1",
+    "ckeditor-dev": "https://github.com/wporter82/ckeditor-dev.git#html5tables"
   },
   "exportsOverride": {
     "bootstrap": {
